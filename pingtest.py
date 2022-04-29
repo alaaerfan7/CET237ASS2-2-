@@ -39,7 +39,7 @@ def ping(host1):
   
   
     return msg
-host1 = '172.25.0.2'
+host1 = '172.24.0.4'
 print('\n',ping(host1),'\n')
 
 
@@ -59,7 +59,7 @@ def ping(host2):
   
   
     return msg
-host2 = '172.25.0.3'
+host2 = '172.24.0.5'
 print('\n',ping(host2),'\n')
 
 
